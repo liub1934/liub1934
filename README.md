@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### 😄 Happy Life Happy Coding 👋
-
-[![liub1934's github stats](https://github-readme-stats.vercel.app/api?username=liub1934)](https://github.com/liub1934)
